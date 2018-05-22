@@ -1,6 +1,9 @@
 #ifndef _SPIRIT_RECURSIVE_GRAMMAR_H_
 #define _SPIRIT_RECURSIVE_GRAMMAR_H_
 
+// NOTE: this grammar is extracted from
+// https://github.com/misuo/spirit-markdown.git
+
 #include <list>
 #include <memory>
 
